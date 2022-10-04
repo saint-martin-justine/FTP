@@ -1,0 +1,2 @@
+sudo adduser merry --shell /bin/false --home /home/merry
+sudo adduser pippin --shell /bin/false --home /home/pippin
